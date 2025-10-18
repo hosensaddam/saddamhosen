@@ -1,6 +1,6 @@
 👋 Hi, I’m @SaddamHosen!
 With over 10 years of experience in both qualitative and quantitative field research, I have led more than 100 studies. 📊 Currently, I work as a multidisciplinary research mentor at Wada Writer, where I guide teams on a variety of innovative projects. My recent work focuses on eHRM with generative AI, automated decision-making in workforce management, mHealth systems, and agentic AI in eBusiness HR. 🤖💼
-Previously, I served as the Chief Executive at the Center for Research and Development Studies (CRDS), overseeing impactful research initiatives. [![Google Scholar][![Google Scholar](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Google_Scholar_logo.svg/2560px-Google_Scholar_logo.svg.png)](https://scholar.google.com/citations?user=yCu0vmgAAAAJ])
+Previously, I served as the Chief Executive at the Center for Research and Development Studies (CRDS), overseeing impactful research initiatives. [![Google Scholar][![Google Scholar](https://commons.wikimedia.org/wiki/File:Google_Scholar_logo.svg)](https://scholar.google.com/citations?user=yCu0vmgAAAAJ])
 
 
 -
