@@ -1,6 +1,6 @@
-👋 Hi, I’m @SaddamHosen!
-With over 10 years of experience in both qualitative and quantitative field research, I have led more than 100 studies. 📊 Currently, I work as a multidisciplinary research mentor at Wada Writer, where I guide teams on a variety of innovative projects. My recent work focuses on eHRM with generative AI, automated decision-making in workforce management, mHealth systems, and agentic AI in eBusiness HR. 🤖💼
-Previously, I served as the Chief Executive at the Center for Research and Development Studies (CRDS), overseeing impactful research initiatives. [![Google Scholar][![Google Scholar](https://commons.wikimedia.org/wiki/File:Google_Scholar_logo.svg)](https://scholar.google.com/citations?user=yCu0vmgAAAAJ])
+👋 Hi, I’m **Mohammad Saddam Hosen!**
+For the past 10 years, I have been actively involved in both qualitative and quantitative field research, conducting over 100 studies. Currently, I serve as a multidisciplinary research mentor at Wada Writer. My recent research focuses on eHRM using generative AI, automated decision-making in workforce management, mHealth systems, and agentic AI in eBusiness HR. Previously, I held the position of Chief Executive at the Center for Research and Development Studies (CRDS).
+
 
 
 -
@@ -8,6 +8,8 @@ Previously, I served as the Chief Executive at the Center for Research and Devel
 - 🌱 Currently learning R-programming to enhance my analytical skills
 - 💞️ I’m always open to collaborating on research projects
 - 📫 Feel free to reach out if you're interested in R programming or research collaboration
+
+- 
 
 
 <!---
