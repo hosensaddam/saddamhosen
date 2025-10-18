@@ -5,25 +5,11 @@ For the past 10 years, I have been actively involved in both qualitative and qua
 
 A highly motivated and research-oriented scholar with a strong foundation in Business Management, Management Science, and Decision Analytics. Skilled in quantitative, qualitative, and computational methods for evidence-based managerial research. Proficient in R Programming, Python, Stata, and SPSS for statistical modeling, forecasting, and econometric analysis. Expert in SmartPLS for Structural Equation Modeling (SEM), currently applied in business strategy, innovation, and management informatics research. Experienced in data visualization and performance analytics using Tableau and Microsoft Power BI, translating complex data into actionable managerial insights. Competent in NVivo and ATLAS.ti for qualitative research and case study analysis. Skilled in integrating OpenAI models within n8n and KNIME platforms for automated managerial decision-making and intelligent workflow optimization. Proficient in Arena Simulation for workforce management, productivity forecasting, and operations modeling. Highly experienced in preparing academic documents and research publications using Microsoft Word, LaTeX, and Zotero for reference management. Dedicated to advancing research in innovation, sustainable business practices, and strategic decision-making in emerging markets through analytical and data-driven approaches.  
 
-
-# Research Technical Skills
-
-![Python](https://img.icons8.com/color/48/000000/python.png)
-![R](https://img.icons8.com/color/48/000000/r.png)
-![MATLAB](https://img.icons8.com/ios-filled/50/000000/matlab.png)
-![Git](https://img.icons8.com/ios-filled/50/000000/git.png)
-![Jupyter](https://img.icons8.com/ios-filled/50/000000/jupyter.png)
-![TensorFlow](https://img.icons8.com/ios-filled/50/000000/tensorflow.png)
-
-
-
--
-- 👀 I’m passionate about research
-- 🌱 Currently learning R-programming to enhance my analytical skills
-- 💞️ I’m always open to collaborating on research projects
-- 📫 Feel free to reach out if you're interested in R programming or research collaboration
-
-- 
+🔍 Research Interested
+- GenAI-integrated HRM Practices
+- Agentic AI-system on Workforce Optimization
+- HR Automated Decison-making
+- Cloud IoT systems for Employee Training
 
 
 <!---
