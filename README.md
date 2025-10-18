@@ -1,6 +1,20 @@
 👋 Hi, I’m **Mohammad Saddam Hosen!**
 For the past 10 years, I have been actively involved in both qualitative and quantitative field research, conducting over 100 studies. Currently, I serve as a multidisciplinary research mentor at Wada Writer. My recent research focuses on eHRM using generative AI, automated decision-making in workforce management, mHealth systems, and agentic AI in eBusiness HR. Previously, I held the position of Chief Executive at the Center for Research and Development Studies (CRDS).
 
+📚 Research Technical Skills
+
+A highly motivated and research-oriented scholar with a strong foundation in Business Management, Management Science, and Decision Analytics. Skilled in quantitative, qualitative, and computational methods for evidence-based managerial research. Proficient in R Programming, Python, Stata, and SPSS for statistical modeling, forecasting, and econometric analysis. Expert in SmartPLS for Structural Equation Modeling (SEM), currently applied in business strategy, innovation, and management informatics research. Experienced in data visualization and performance analytics using Tableau and Microsoft Power BI, translating complex data into actionable managerial insights. Competent in NVivo and ATLAS.ti for qualitative research and case study analysis. Skilled in integrating OpenAI models within n8n and KNIME platforms for automated managerial decision-making and intelligent workflow optimization. Proficient in Arena Simulation for workforce management, productivity forecasting, and operations modeling. Highly experienced in preparing academic documents and research publications using Microsoft Word, LaTeX, and Zotero for reference management. Dedicated to advancing research in innovation, sustainable business practices, and strategic decision-making in emerging markets through analytical and data-driven approaches.  
+
+
+# Research Technical Skills
+
+![Python](https://img.icons8.com/color/48/000000/python.png)
+![R](https://img.icons8.com/color/48/000000/r.png)
+![MATLAB](https://img.icons8.com/ios-filled/50/000000/matlab.png)
+![Git](https://img.icons8.com/ios-filled/50/000000/git.png)
+![Jupyter](https://img.icons8.com/ios-filled/50/000000/jupyter.png)
+![TensorFlow](https://img.icons8.com/ios-filled/50/000000/tensorflow.png)
+
 
 
 -
